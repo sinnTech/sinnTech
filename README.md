@@ -13,7 +13,7 @@
 ## 🛠️ Skills  
 - **Languages**: Python, JavaScript, Java  
 - **Tools**: Git, Postman, VS Code  
-- **Focus Areas**: Debugging, Automation, [Add Your Specialty]  
+- **Focus Areas**: Debugging, Automation.
 
 ---
 
