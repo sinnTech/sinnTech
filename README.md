@@ -39,4 +39,4 @@
 
 --- 
 
-⭐ **Fun Fact**: [Add a quirky line, e.g., "I debug code while listening to lofi beats."]  
+⭐ **Fun Fact**: "I debug code while listening to lofi beats."
