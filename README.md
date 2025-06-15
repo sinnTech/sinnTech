@@ -18,13 +18,9 @@
 ---
 
 ## 🚀 Projects  
-### [Project 1: API Troubleshooting Guide](github-link)  
-- Documented common API errors and fixes.  
-- Used: Python, `requests` library.  
 
-### [Project 2: Todo List App](github-link)  
-- CRUD app with local storage.  
-- Used: HTML/CSS, JavaScript.  
+### [Project : Todo List App](github-link)  
+  
 
 ## 📌 Currently Learning  
 - React  
