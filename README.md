@@ -17,11 +17,6 @@
 
 ---
 
-## 🚀 Projects  
-
-### [Project : Todo List App](github-link)  
-  
-
 ## 📌 Currently Learning  
 - React  
 - AWS Basics  
