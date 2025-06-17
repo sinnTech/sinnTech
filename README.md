@@ -1,12 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Leveling up my Python/JavaScript skills through small coding challenges.  
-<br>- Exploring open-source projects—hit me up if you need a contributor!  
-<br>🌱 I’m currently learning<br>- How to build scalable APIs with Node.js.  
-<br>- The dark art of efficient debugging<br>🤝 I’m looking for help with
-<br>- debugging tricky issues and best practices<br>🌱 I’m currently learning:<br>-React, Python, Opencv, OOP.
+🔭 I’m currently working on
+<br> Leveling up my Python/JavaScript skills through small coding challenges.  
+<br> Exploring open-source projects—hit me up if you need a contributor!  
+<br>🌱 I’m currently learning
+<br> How to build scalable APIs with Node.js.  
+<br>The dark art of efficient debugging
+<br>🤝 I’m looking for help with
+<br>debugging tricky issues and best practices
+<br>🌱 I’m currently learning:<br>-React, Python, Opencv, OOP.
 <br>💬 Ask me about:
-<br>- web dev, UI design, or cats<br>⚡ Fun fact:
-<br>-I once coded for 24 hours straight.
+<br> web dev, UI design, or cats
+<br>⚡ Fun fact:
+<br>I once coded for 24 hours straight.
 
 
 ## 🌐 Socials:
