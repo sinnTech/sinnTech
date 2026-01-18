@@ -11,8 +11,6 @@ debugging tricky issues and best practices
 React, Python, Opencv, OOP.
 <br>💬 Ask me about:
  web dev, UI design, or cats
-<br>⚡ Fun fact:
-I once coded for 24 hours straight.
 
 
 ## 🌐 Socials:
