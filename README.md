@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on:
-Leveling up my Python/JavaScript skills through small coding challenges.  
+Currently working on AI/ML, and my favorite hackathons.  
 Exploring open-source projects—hit me up if you need a contributor!  
 <br>🌱 I’m currently learning
  How to build scalable APIs with Node.js.  
