@@ -8,7 +8,7 @@ The dark art of efficient debugging
 <br>🤝 I’m looking for help with:
 debugging tricky issues and best practices
 <br>🌱 I’m currently learning:
-React, Python, Opencv, OOP.
+Agents,Android,Flutter, While having fun with Open CV.
 <br>💬 Ask me about:
  web dev, UI design, or cats
 
